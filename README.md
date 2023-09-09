@@ -12,3 +12,13 @@
 
 ### Sailing Co-op's
 * https://visail.ca/
+
+### Sailing Certifcations
+======================
+* RYA - https://www.seatoskysailing.com/rya-coastal-skipper
+* ISPA - https://www.ispa.com/
+* ASA - https://asa.com/schools/canada/ - http://islandcruising.ca/
+* CRYA - https://crya.org/
+* IYT - International Yacht Training https://www.iytworld.com/ 
+* CYA-  Sail Canada (CYA) - http://www.simplysailing.ca/
+* NauticEd - https://www.nauticed.org/ - https://underwaysailing.com/
