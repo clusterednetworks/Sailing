@@ -11,4 +11,4 @@
 
 
 ### Sailing Co-op's
-https://visail.ca/
+* https://visail.ca/
