@@ -4,9 +4,10 @@
 * https://victory-products.com/
 * https://www.stevestonmarine.com/
 * https://www.catalinadirect.com/
-* https://harbourchandler.ca/
-* https://www.nanaimoboatyard.ca/nanaimo-chandlery/
+* https://harbourchandler.ca/ - Nanaimo
+* https://www.nanaimoboatyard.ca/nanaimo-chandlery/ - Nanaimo
 * https://www.pocomarine.com/
+* https://www.unlimitedfab.ca/custom-metal-projects/marine - Nanaimo
 
 
 
