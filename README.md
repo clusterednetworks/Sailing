@@ -33,3 +33,10 @@
 * IYT - International Yacht Training https://www.iytworld.com/ 
 * CYA-  Sail Canada (CYA) - http://www.simplysailing.ca/
 * NauticEd - https://www.nauticed.org/ - https://underwaysailing.com/
+
+### Charter Companies
+* Cooper Boating - http://www.cooperboating.com/ - Vancouver
+* BLUE PACIFIC YACHT CHARTERS - http://www.bluepacificcharters.com/ - Vancouver
+* ISLAND CRUSING YACHT CHARTERS - http://www.islandcruising.com/ - Sidney
+* NANAIMO YACHT CHARTERS - http://www.nanaimoyachtcharters.com/ - Nanaimo
+* DESOLATION SOUND YACHT CHARTERS - http://www.desolationsoundyachtcharters.com/ - Comox
