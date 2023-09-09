@@ -26,7 +26,6 @@
 * https://seattlesailing.com/ - Seattle
 
 ### Sailing Certifcations
-======================
 * RYA - https://www.seatoskysailing.com/rya-coastal-skipper
 * ISPA - https://www.ispa.com/
 * ASA - https://asa.com/schools/canada/ - http://islandcruising.ca/
