@@ -12,6 +12,13 @@
 
 ### Sailing Co-op's
 * https://visail.ca/
+* https://barnetsailing.bc.ca/
+* https://www.victoriasailingcoop.ca/
+* https://sookesailingcoop.com/
+* https://www.kitsilanoyachtclub.com/
+* https://sailtime.com/
+* https://seattlesailing.com/
+* 
 
 ### Sailing Certifcations
 ======================
