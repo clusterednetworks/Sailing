@@ -11,14 +11,18 @@
 
 
 ### Sailing Co-op's
-* https://visail.ca/
-* https://barnetsailing.bc.ca/
-* https://www.victoriasailingcoop.ca/
-* https://sookesailingcoop.com/
-* https://www.kitsilanoyachtclub.com/
-* https://sailtime.com/
-* https://seattlesailing.com/
-* 
+* https://visail.ca/ - Nanaimo
+* https://barnetsailing.bc.ca/ - Vancouver
+* https://www.victoriasailingcoop.ca/ - Victoria
+* https://sookesailingcoop.com/ - Sooke BC
+* https://www.kitsilanoyachtclub.com/ - Vancouver
+* https://lmyc.ca/ - Lower Mainland
+* http://sailingcoop.com/
+* https://www.discoverysailing.org/
+* https://waterlinesailing.ca/location/
+* http://www.fairwinds-sailing.ca/
+* https://sailtime.com/ - Various US Locations
+* https://seattlesailing.com/ - Seattle
 
 ### Sailing Certifcations
 ======================
