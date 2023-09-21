@@ -40,3 +40,10 @@
 * ISLAND CRUSING YACHT CHARTERS - http://www.islandcruising.com/ - Sidney
 * NANAIMO YACHT CHARTERS - http://www.nanaimoyachtcharters.com/ - Nanaimo
 * DESOLATION SOUND YACHT CHARTERS - http://www.desolationsoundyachtcharters.com/ - Comox
+
+### For Sale
+* https://www.sailboatlistings.com/
+* https://ca.boats.com/
+* https://www.boatdealers.ca/
+* https://www.vancouveryachtsales.com/
+* https://calibreyachts.com/
