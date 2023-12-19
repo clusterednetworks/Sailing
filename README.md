@@ -41,6 +41,9 @@
 * NANAIMO YACHT CHARTERS - http://www.nanaimoyachtcharters.com/ - Nanaimo
 * DESOLATION SOUND YACHT CHARTERS - http://www.desolationsoundyachtcharters.com/ - Comox
 
+### Cruising Guides
+* https://onlinecruisingguide.com/
+
 ### For Sale
 * https://www.sailboatlistings.com/
 * https://ca.boats.com/
